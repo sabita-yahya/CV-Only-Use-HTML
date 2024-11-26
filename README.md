@@ -1,20 +1,18 @@
 # CV Basic with HTML and CSS
 
-## Deskripsi
-Proyek ini adalah sebuah template sederhana untuk membuat **Curriculum Vitae (CV)** menggunakan **HTML** dan sedikit sentuhan gaya menggunakan **CSS**. Template ini dirancang agar mudah dipahami oleh pemula yang ingin belajar membuat CV secara mandiri tanpa menggunakan alat atau framework tambahan.
+## Description
+This project is a simple template for creating a **Curriculum Vitae (CV)** using **HTML** with a touch of styling provided by **CSS**. It is designed to be beginner-friendly, enabling users to create their own CV without relying on tools or additional frameworks.
 
 ---
 
-## Fitur
-- Struktur dasar CV yang bersih dan rapi.
-- Gaya sederhana menggunakan CSS untuk menampilkan tata letak yang profesional.
-- Responsif untuk berbagai ukuran layar (opsional, dapat disesuaikan).
+## Features
+- A clean and structured CV layout.
+- Simple CSS styling for a professional look.
+- Responsive design for various screen sizes (optional, customizable).
 
 ---
 
-## Struktur Proyek
-Bisa Anda lihat di file sebelahnya, itu adalah code lengkap mengenai pembuatan CV use Only HTML 
-cv_sabita.html
+## Project Structure
+You can refer to the accompanying file for the complete code: **cv_sabita.html**, which demonstrates how to create a CV using only HTML.
 
----
-https://roadmap.sh/projects/single-page-cv
+For more inspiration or a detailed guide, visit: [Single Page CV Roadmap](https://roadmap.sh/projects/single-page-cv)
