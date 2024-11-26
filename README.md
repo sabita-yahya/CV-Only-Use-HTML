@@ -13,5 +13,8 @@ Proyek ini adalah sebuah template sederhana untuk membuat **Curriculum Vitae (CV
 ---
 
 ## Struktur Proyek
-Bisa Anda lihat di file sebelahnya, itu adalah code lengkap mengenai pembuatan CV use Only HTML
+Bisa Anda lihat di file sebelahnya, itu adalah code lengkap mengenai pembuatan CV use Only HTML 
+cv_sabita.html
+
+---
 https://roadmap.sh/projects/single-page-cv
